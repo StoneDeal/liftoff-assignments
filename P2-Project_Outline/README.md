@@ -7,11 +7,31 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+
+    The goal of my project is to help users find new music to listen to.
+    When setting up a profile, the user will provide examples of bands/genres they enjoy. They will then be provided with recommendations for
+    bands they might also enjoy. They can apply further filters to these recommendations as well. There will also be a basic browsing page where
+    the user can independently find bands. The user will be able to update
+    their list of band interests, and the website will continue to use this information to find new bands for them. I would also like to add a friend functionality that allows users to add their friends and recommend music to them on the site. There will be a separate page to display friend recommendations. 
+
 ### Features
-Include Features here
+
+    User Login: Users will have to create an account and login to use the site, I will have to implement some validation for the login page.
+
+    Browse Music: Users will be able to browse bands, applying filters to the search results such as genre, name, etc...
+
+    Discover: Based on the user's list of interests, this page will display recommendations for them, these recommendations can be filtered as well.
+
+    Friends: Users will be able to add friends by their username.
+
+    Friend Recommendations: Friends will be able to recommend bands to each other, these recommendations will appear on their own page.
+
 ### Technologies
-Include Technologies here
+
+    JavaScript
+    Ajax
+    Firebase
 
 ### What I'll Have to Learn
-Include what you will need to learn here
+
+    I will be trying to use Firebase, I have no experience with it so I will have to learn it from scratch.
